@@ -1,0 +1,21 @@
+SUPPLIED IMAGE PLACEMENT
+========================
+
+Put the restaurant storefront/exterior image here:
+public/assets/restaurant/storefront.jpg
+
+Food images:
+public/assets/food/mutton-korma.jpg
+public/assets/food/chicken-mandi.jpg
+public/assets/food/mutton-mandi.jpg
+public/assets/food/tandoori-chicken.jpg
+public/assets/food/turkish-chicken.jpg
+public/assets/food/turkish-mandi.jpg
+public/assets/food/saudi-mandi.jpg
+public/assets/food/kunafa.jpg
+public/assets/food/lebanese-chicken.jpg
+public/assets/food/raan.jpg
+public/assets/food/omali.jpg
+public/assets/food/tabi-naan.jpg
+
+The starter intentionally uses CSS-generated cinematic artwork where the actual storefront image is not yet present. Replace the relevant hero background in src/main.jsx with the supplied storefront image when adding assets.

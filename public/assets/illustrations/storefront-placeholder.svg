@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080706"/><stop offset=".55" stop-color="#34200f"/><stop offset="1" stop-color="#0b0907"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d6ae61" stop-opacity=".35"/><stop offset="1" stop-color="#d6ae61" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1180" cy="350" r="300" fill="url(#glow)"/>
+  <path d="M330 900V420Q330 170 800 170T1270 420V900" fill="none" stroke="#c9a45a" stroke-opacity=".35" stroke-width="4"/>
+  <rect x="575" y="310" width="450" height="190" fill="#100d09" stroke="#c9a45a" stroke-opacity=".35"/>
+  <text x="800" y="385" text-anchor="middle" fill="#e6c984" font-family="Georgia" font-size="60">ARABIAN</text>
+  <text x="800" y="465" text-anchor="middle" fill="#e6c984" font-family="Georgia" font-size="78">DARBAR</text>
+  <rect x="650" y="560" width="300" height="340" fill="#0a0806" stroke="#c9a45a" stroke-opacity=".22"/>
+  <g stroke="#c9a45a" stroke-opacity=".16" fill="none">
+    <path d="M80 150h180M1340 150h180M80 850h180M1340 850h180"/>
+    <path d="M140 90l55 55-55 55-55-55zM1460 800l55 55-55 55-55-55z"/>
+  </g>
+</svg>
